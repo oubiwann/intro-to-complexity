@@ -67,7 +67,7 @@ Apache License, Version 2.0.
 [maxima-wiki]: https://en.wikipedia.org/wiki/Maxima_(software)
 [jupyter]: https://jupyter.org/
 [sbcl]: http://www.sbcl.org/
-[nbviewer-section2]: https://nbviewer.jupyter.org/github/oubiwann/intro-to-complexity/blob/master/notebooks/Population%20Growth.ipynb
+[nbviewer-section2]: https://nbviewer.jupyter.org/github/oubiwann/intro-to-complexity/blob/master/notebooks/Section%202%20-%20Population%20Growth.ipynb
 [nbviewer-resources]: https://nbviewer.jupyter.org/github/oubiwann/intro-to-complexity/blob/master/notebooks/Maxima%20Resources.ipynb
 [nbviewer]: https://nbviewer.jupyter.org/
 [lisp-in-maxima]: https://nbviewer.jupyter.org/github/calyau/maxima-tutorial-notebooks/blob/master/notebooks/Use%20of%20Lisp.ipynb
